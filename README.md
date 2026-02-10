@@ -2,10 +2,13 @@
 
 A modern, full-stack note-taking application built to demonstrate **Frontend Development** skills with a robust **Node.js** backend. This project fulfills the requirements for a Frontend Developer Intern task, featuring secure authentication, real-time updates, and a glassmorphism-inspired UI.
 
-![Project Preview](https://via.placeholder.com/800x400?text=NoteTaker+App+Preview) 
-*(Screenshots would go here)*
 
-## 🚀 Features
+## 🔮 Scaling Considerations
+
+For a detailed breakdown of how this application could be scaled to millions of users (Database sharding, Load Balancing, Caching), please refer to [SCALING.md](./SCALING.md).
+
+---
+
 
 -   **🔐 Secure Authentication**: User registration and login using **JWT** (JSON Web Tokens) and secure password hashing with **bcrypt**.
 -   **📝 Note Management**: Create, Read, Update, and Delete (CRUD) notes effortlessly.
