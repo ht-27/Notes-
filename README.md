@@ -2,6 +2,16 @@
 
 A modern, full-stack note-taking application built to demonstrate **Frontend Development** skills with a robust **Node.js** backend. This project fulfills the requirements for a Frontend Developer Intern task, featuring secure authentication, real-time updates, and a glassmorphism-inspired UI.
 
+Live Demo
+
+Frontend:
+https://notes-taupe-phi-46.vercel.app
+
+Backend API:
+https://notes-v9dq.onrender.com
+
+Test it by creating a new account.
+
 
 ## 🔮 Scaling Considerations
 
@@ -38,7 +48,7 @@ For a detailed breakdown of how this application could be scaled to millions of 
 ## 📦 Installation & Setup
 
 Follow these steps to run the project locally.
-
+A
 ### 1. clone the repository
 ```bash
 git clone https://github.com/ht-27/Notes-
