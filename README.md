@@ -41,7 +41,7 @@ Follow these steps to run the project locally.
 
 ### 1. clone the repository
 ```bash
-git clone https://github.com/yourusername/note-taker.git
+git clone https://github.com/ht-27/Notes-
 cd note-taker
 ```
 
@@ -51,8 +51,9 @@ Initialize the database and start the server.
 ```bash
 cd backend
 npm install
-npx prisma db push  # Creates the SQLite database file
+npx prisma db push
 node src/index.js
+
 ```
 *Server runs on `http://localhost:3000`*
 
@@ -62,10 +63,9 @@ In a new terminal, start the React application.
 ```bash
 cd frontend
 npm install
-npm run build       # Build for production
-npm run preview -- --host # Run the production build
+npm run dev
 ```
-*Application runs on `http://localhost:4173`*
+*Application runs on `http://localhost:5173`*
 
 
 
